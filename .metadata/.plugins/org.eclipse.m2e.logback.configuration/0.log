@@ -585,3 +585,48 @@
 2023-07-11 21:57:25,390 [Worker-51: Launching dslist - DslistApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2023-07-11 21:57:25,394 [Worker-51: Launching dslist - DslistApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temp\Intensivo INTENSIVÃO JAVA SPRING\dslist\dslist\src\test\resources
 2023-07-11 22:01:13,152 [Worker-45: Launching dslist - DslistApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-11 22:01:13,199 [Worker-45: Launching dslist - DslistApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-11 22:01:13,204 [Worker-45: Launching dslist - DslistApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temp\Intensivo INTENSIVÃO JAVA SPRING\dslist\dslist\src\test\resources
+2023-07-12 20:56:42,966 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-07-12 20:58:13,158 [Worker-4: Launching dslist - DslistApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-12 20:58:13,205 [Worker-4: Launching dslist - DslistApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-12 20:58:13,214 [Worker-4: Launching dslist - DslistApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temp\Intensivo INTENSIVÃO JAVA SPRING\dslist\dslist\src\test\resources
+2023-07-12 20:59:04,383 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-12 20:59:04,395 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-12 20:59:04,401 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temp\Intensivo INTENSIVÃO JAVA SPRING\dslist\dslist\src\test\resources
+2023-07-12 21:03:54,490 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-12 21:03:54,513 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-12 21:03:54,517 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temp\Intensivo INTENSIVÃO JAVA SPRING\dslist\dslist\src\test\resources
+2023-07-12 21:05:00,958 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-12 21:05:00,983 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-12 21:05:00,987 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temp\Intensivo INTENSIVÃO JAVA SPRING\dslist\dslist\src\test\resources
+2023-07-12 21:05:11,724 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-12 21:05:11,731 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-12 21:05:11,733 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temp\Intensivo INTENSIVÃO JAVA SPRING\dslist\dslist\src\test\resources
+2023-07-12 21:14:54,806 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-12 21:14:54,828 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-12 21:14:54,834 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temp\Intensivo INTENSIVÃO JAVA SPRING\dslist\dslist\src\test\resources
+2023-07-12 21:17:07,838 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-12 21:17:07,854 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-12 21:17:07,857 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temp\Intensivo INTENSIVÃO JAVA SPRING\dslist\dslist\src\test\resources
+2023-07-12 21:18:40,602 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-12 21:18:40,611 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-12 21:18:40,622 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temp\Intensivo INTENSIVÃO JAVA SPRING\dslist\dslist\src\test\resources
+2023-07-12 21:20:30,557 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-12 21:20:30,563 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-12 21:20:30,566 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temp\Intensivo INTENSIVÃO JAVA SPRING\dslist\dslist\src\test\resources
+2023-07-12 21:20:50,842 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-12 21:20:50,850 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-12 21:20:50,856 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temp\Intensivo INTENSIVÃO JAVA SPRING\dslist\dslist\src\test\resources
+2023-07-12 21:25:07,470 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-12 21:25:07,479 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-12 21:25:07,483 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temp\Intensivo INTENSIVÃO JAVA SPRING\dslist\dslist\src\test\resources
+2023-07-12 21:27:48,841 [Worker-18: Launching dslist - DslistApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-12 21:27:48,854 [Worker-18: Launching dslist - DslistApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-12 21:27:48,858 [Worker-18: Launching dslist - DslistApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temp\Intensivo INTENSIVÃO JAVA SPRING\dslist\dslist\src\test\resources
+2023-07-12 21:28:10,413 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-12 21:28:10,422 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-12 21:28:10,425 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temp\Intensivo INTENSIVÃO JAVA SPRING\dslist\dslist\src\test\resources
+2023-07-12 21:29:00,376 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-12 21:29:00,390 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-12 21:29:00,393 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Temp\Intensivo INTENSIVÃO JAVA SPRING\dslist\dslist\src\test\resources
