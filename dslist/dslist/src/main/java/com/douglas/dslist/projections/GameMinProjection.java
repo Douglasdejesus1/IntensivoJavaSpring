@@ -3,7 +3,7 @@ package com.douglas.dslist.projections;
 public interface GameMinProjection {
 	Long getId();
 	String getTitle();
-	Integer getYear();
+	Integer getGetYear();
 	String getImgUrl();
 	String getShortDescription();
 	String getPosition();
